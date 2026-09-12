@@ -1,0 +1,7 @@
+*.py text eol=lf
+*.md text eol=lf
+data/** -text
+paper_data/** -text
+*.pkl -text
+*.pdf -text
+*.zip -text

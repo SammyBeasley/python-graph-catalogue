@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "Please cite this repository when using these research materials, and cite the graph sources listed in the README."
+title: "quantum-graph-catalogue"
+authors:
+  - name: "SammyBeasley"
+version: 0.1.0
+repository-code: "https://github.com/SammyBeasley/quantum-graph-catalogue"
