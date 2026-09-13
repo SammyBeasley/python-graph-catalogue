@@ -5,7 +5,7 @@ type: dataset
 authors:
   - given-names: "Sammy"
     family-names: "Beasley"
-repository-code: "https://github.com/SammyBeasley/quantum-graph-catalogue"
+repository-code: "https://github.com/SammyBeasley/python-graph-catalogue"
 references:
   - type: article
     authors:
