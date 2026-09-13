@@ -1,7 +1,19 @@
 cff-version: 1.2.0
-message: "Please cite this repository when using these research materials, and cite the graph sources listed in the README."
-title: "quantum-graph-catalogue"
+message: "Cite this graph compilation and Python conversion together with the upstream graph sources listed in REFERENCES.bib."
+title: "Graph collections for QAOA and IQP analysis"
+type: dataset
 authors:
-  - name: "SammyBeasley"
-version: 0.1.0
+  - given-names: "Sammy"
+    family-names: "Beasley"
 repository-code: "https://github.com/SammyBeasley/quantum-graph-catalogue"
+references:
+  - type: article
+    authors:
+      - given-names: "Markus"
+        family-names: "Meringer"
+    title: "Fast Generation of Regular Graphs and Construction of Cages"
+    journal: "Journal of Graph Theory"
+    volume: "30"
+    start: "137"
+    end: "146"
+    year: 1999

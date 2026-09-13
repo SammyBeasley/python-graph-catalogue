@@ -10495,3 +10495,4 @@ ladder_pairs,Circular Ladder (14 nodes),Mobius Ladder (14 nodes),g_d3c398db66611
 ladder_pairs,Circular Ladder (16 nodes),Mobius Ladder (16 nodes),g_f3511373bb5434edb924,g_33cd69f0dc19ba715773,5,5
 ladder_pairs,Circular Ladder (18 nodes),Mobius Ladder (18 nodes),g_7c596ef2a087fdd345cc,g_8275f46fecda58983c5e,6,6
 ladder_pairs,Circular Ladder (20 nodes),Mobius Ladder (20 nodes),g_a098ffea88837c0b8506,g_5952c1fea9e6c459cfdc,7,7
+16v_srg,16v_srg_G_1,16v_srg_G_2,g_e82c2890dcbb71251808,g_0eebcff369f63213ecbf,0,1

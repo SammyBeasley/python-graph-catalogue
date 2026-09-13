@@ -1,0 +1,127 @@
+{
+  "regular_graph_source": {
+    "author": "Markus Meringer",
+    "title": "Regular Graphs",
+    "url": "https://www.mathe2.uni-bayreuth.de/markus/reggraphs.html",
+    "accessed": "2026-09-13"
+  },
+  "python_conversion_and_connected_graph_generation": "Sammy Beasley",
+  "cospectral_pair_calculations": "Sammy Beasley; saved adjacency-cospectral pairs used by QAOA Analysis.ipynb",
+  "strongly_regular_scope": {
+    "16v_srg": "studied for the paper",
+    "25v_srg": "excluded from paper computation: size",
+    "26v_srg": "excluded from paper computation: size",
+    "28v_srg": "excluded from paper computation: size",
+    "29v_srg": "excluded from paper computation: size"
+  },
+  "source_files": [
+    {
+      "file": "graphs.py",
+      "sha256": "8c42314616ed413b1dad6f0f7612fbfca56def9c83b24b491ff5c78e80670448"
+    },
+    {
+      "file": "n node connected graphs/4-node connected graphs.pkl",
+      "sha256": "539626396f4c36e3703fd734bfe38e9a017c9f52ed5dc71bf60a893c506ad919"
+    },
+    {
+      "file": "n node connected graphs/5-node connected graphs.pkl",
+      "sha256": "28d4f39dfc61efbf7f82d8f5cc77608eae41ff9e52360e7066d0e0d54d2e8427"
+    },
+    {
+      "file": "n node connected graphs/6-node connected graphs.pkl",
+      "sha256": "3054ad405a558c2b3c1f575757f5888af4cf0b8a925010fb158d1087cbd61efb"
+    },
+    {
+      "file": "n node connected graphs/7-node connected graphs.pkl",
+      "sha256": "cfb31aa3b6825db0adbc038cd0ec3673507f53e7edf493fd97604cfab5c20081"
+    },
+    {
+      "file": "cospectral_graphs/cospectral_10v_3reg.pkl",
+      "sha256": "095355d9011d26f3b38192be74a7f6380dd7f83e033121fb3717126a6d11ca2f"
+    },
+    {
+      "file": "cospectral_graphs/cospectral_10v_4reg.pkl",
+      "sha256": "41222a8ad12aaf5e31dbd2d7305830036f4d2acdd46d354e206c50e2a06ffdcd"
+    },
+    {
+      "file": "cospectral_graphs/cospectral_10v_5reg.pkl",
+      "sha256": "b794cbbc774afb99cd948be292de26db709be18d6c4ef944b02ef6d99efffbc1"
+    },
+    {
+      "file": "cospectral_graphs/cospectral_10v_6reg.pkl",
+      "sha256": "095355d9011d26f3b38192be74a7f6380dd7f83e033121fb3717126a6d11ca2f"
+    },
+    {
+      "file": "cospectral_graphs/cospectral_10v_7reg.pkl",
+      "sha256": "095355d9011d26f3b38192be74a7f6380dd7f83e033121fb3717126a6d11ca2f"
+    },
+    {
+      "file": "cospectral_graphs/cospectral_11v_4reg.pkl",
+      "sha256": "b5a48faf8488366f404e70922ad6c86a8fbbb4452a9e18f34a703fe44dd0b716"
+    },
+    {
+      "file": "cospectral_graphs/cospectral_11v_6reg.pkl",
+      "sha256": "4f20742038227384232b880190787f104577f1c7f13b174303a39351a8440499"
+    },
+    {
+      "file": "cospectral_graphs/cospectral_12v_3reg.pkl",
+      "sha256": "095355d9011d26f3b38192be74a7f6380dd7f83e033121fb3717126a6d11ca2f"
+    },
+    {
+      "file": "cospectral_graphs/cospectral_12v_4reg.pkl",
+      "sha256": "92fee1792883c48660c0d60738cee7b29874cfab598598ab1b1de902e36920c4"
+    },
+    {
+      "file": "cospectral_graphs/cospectral_12v_5reg.pkl",
+      "sha256": "bccde45b50ec01b06d3b1f2b00c52da4cb3242f67bd331bf68c97aed5f4c17b9"
+    },
+    {
+      "file": "cospectral_graphs/cospectral_13v_4reg.pkl",
+      "sha256": "ec81e6a391c2cc9716da3d79df76425080eaf7c3a50a4951c862cdf4832cdc8e"
+    },
+    {
+      "file": "cospectral_graphs/cospectral_14v_3reg.pkl",
+      "sha256": "9ead786f1ffa6ddbc1a95b99a8c17c06b088d8b7bf9d9a05d32682da30830f1a"
+    },
+    {
+      "file": "cospectral_graphs/cospectral_14v_4reg.pkl",
+      "sha256": "3e0ab3441d1b95465d675c0bf229dc49914cec60c2fc8be9473f048793359dfb"
+    },
+    {
+      "file": "cospectral_graphs/cospectral_16v_3reg.pkl",
+      "sha256": "508d1277a4a44b2036409b578fdabad3d3e377f5e272eb494028600c6c316ff1"
+    },
+    {
+      "file": "cospectral_graphs/cospectral_18v_3reg.pkl",
+      "sha256": "93182450bc4981d0e097606641ebc66810e9d6454b09e63d0336a0a81bde1bde"
+    },
+    {
+      "file": "cospectral_graphs/cospectral_6v_3reg.pkl",
+      "sha256": "095355d9011d26f3b38192be74a7f6380dd7f83e033121fb3717126a6d11ca2f"
+    },
+    {
+      "file": "cospectral_graphs/cospectral_7v_4reg.pkl",
+      "sha256": "095355d9011d26f3b38192be74a7f6380dd7f83e033121fb3717126a6d11ca2f"
+    },
+    {
+      "file": "cospectral_graphs/cospectral_8v_3reg.pkl",
+      "sha256": "095355d9011d26f3b38192be74a7f6380dd7f83e033121fb3717126a6d11ca2f"
+    },
+    {
+      "file": "cospectral_graphs/cospectral_8v_4reg.pkl",
+      "sha256": "095355d9011d26f3b38192be74a7f6380dd7f83e033121fb3717126a6d11ca2f"
+    },
+    {
+      "file": "cospectral_graphs/cospectral_8v_5reg.pkl",
+      "sha256": "095355d9011d26f3b38192be74a7f6380dd7f83e033121fb3717126a6d11ca2f"
+    },
+    {
+      "file": "cospectral_graphs/cospectral_9v_4reg.pkl",
+      "sha256": "095355d9011d26f3b38192be74a7f6380dd7f83e033121fb3717126a6d11ca2f"
+    },
+    {
+      "file": "cospectral_graphs/cospectral_9v_6reg.pkl",
+      "sha256": "095355d9011d26f3b38192be74a7f6380dd7f83e033121fb3717126a6d11ca2f"
+    }
+  ]
+}

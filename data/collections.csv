@@ -1,9 +1,9 @@
 collection,graphs,distinct_stored_graphs,min_vertices,max_vertices,study_status
 16v_srg,2,2,16,16,configured_in_notebook
-25v_srg,15,15,25,25,available_in_sources
-28v_srg,4,4,28,28,available_in_sources
-26v_srg,10,10,26,26,available_in_sources
-29v_srg,41,41,29,29,available_in_sources
+25v_srg,15,15,25,25,excluded_from_paper_computation_size
+28v_srg,4,4,28,28,excluded_from_paper_computation_size
+26v_srg,10,10,26,26,excluded_from_paper_computation_size
+29v_srg,41,41,29,29,excluded_from_paper_computation_size
 6v_3reg,2,2,6,6,configured_in_notebook
 7v_4reg,2,2,7,7,configured_in_notebook
 8v_3reg,5,5,8,8,configured_in_notebook
