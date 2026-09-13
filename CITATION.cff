@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "Cite this graph compilation and Python conversion together with the upstream graph sources listed in REFERENCES.bib."
-title: "Graph collections for QAOA and IQP analysis"
+title: "Python graph collections for QAOA and IQP analysis"
 type: dataset
 authors:
   - given-names: "Sammy"
